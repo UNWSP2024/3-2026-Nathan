@@ -43,5 +43,6 @@ if choice == "Y":
 tax = cost*tax_rate
 total = cost + tax
 
-print("Tax: $", tax)
+print("Total before taxes: $", cost)
+print("Tax: $", round(tax,2))
 print("Total: $", total)
