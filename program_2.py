@@ -1,6 +1,6 @@
 # By Nathan Nelsen
 # Written 2/5/2026
-# Age Checker
+# Age Classifier
 
 
 # Write a program that asks the user to enter a person's age.  The program should display a message indicating whether the person is an infant, a child, a teenager, or an adult.  Following are the guidelines:
